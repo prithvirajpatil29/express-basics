@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+nav{
+    padding: 12px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: gray;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    text-align: center;
+
+}
+ a{
+    text-decoration: none;
+    color: #fff;
+    margin-right: 10px;
+    font-size: 22px;
+}
+h1{
+    font-size: 35px;
+    margin-top: 40px;
+    color: gray;
+}
